@@ -12,4 +12,7 @@ git log
 
 git remote add origin git@github.com:Ghassan-Aljaafri/Learn-Git.git
 git remote -v
+
 git push -u origin master
+
+git pull
