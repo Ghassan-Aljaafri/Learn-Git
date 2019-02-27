@@ -7,12 +7,18 @@ git init
 git status
 git add <file name>
 git commit -m "message"
-git log
+git log (show all commits)
 
 
 git remote add origin git@github.com:Ghassan-Aljaafri/Learn-Git.git
-git remote -v
+git remote -v (show the remote repo)
 
 git push -u origin master
 
 git pull
+
+git branch
+git branch <branch Name>
+git branch <branch name>
+
+git merge <branch name>
